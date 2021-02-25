@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "tfcintegration",
+    "name": "TFC:TNG Integration",
+    "description": "Add integration for other mods and add some new items for tfc.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "NIYANhhhhh"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "parent": "tfc",
+    "screenshots": []
+  }
+]
